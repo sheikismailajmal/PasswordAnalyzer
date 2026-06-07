@@ -165,6 +165,35 @@ This project helped strengthen practical knowledge in:
 - Application Design
 
 ---
+## Project Screenshots
+
+### User Interface
+
+![UI](screenshots/ui.png)
+
+---
+
+### Password Analysis Result
+
+![Password Analysis](screenshots/password-analysis-result.png)
+
+---
+
+### Breach Detection
+
+![Breach Detection](screenshots/breach-detection.png)
+
+---
+
+### Database Logs
+
+![Database Logs](screenshots/database-logs.png)
+
+---
+
+### Source Code Structure
+
+![Source Code Structure](screenshots/source-code-structure.png)
 
 ## Author
 

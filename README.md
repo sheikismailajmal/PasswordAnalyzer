@@ -195,6 +195,78 @@ This project helped strengthen practical knowledge in:
 
 ![Source Code Structure](screenshots/source-code-structure.png)
 
+## How to Run
+
+### Prerequisites
+
+- Java 17 or higher
+- Maven
+- SQLite
+- IntelliJ IDEA (recommended)
+
+### Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/sheikismailajmal/PasswordAnalyzer.git
+```
+
+2. Open the project in IntelliJ IDEA
+
+3. Wait for Maven dependencies to download
+
+4. Ensure the SQLite database file (`passwords.db`) is present in the project directory
+
+### Running the Application
+
+1. Navigate to:
+
+```text
+src/main/java
+```
+
+2. Run:
+
+```java
+PasswordUI.java
+```
+
+3. Enter a password in the application
+
+4. View:
+   - Password Strength Analysis
+   - Breach Detection Status
+   - Security Recommendations
+
+### Example
+
+Password:
+
+```text
+123456
+```
+
+Result:
+
+```text
+Strength: Weak
+Breached: Yes
+```
+
+Password:
+
+```text
+Admin@123
+```
+
+Result:
+
+```text
+Strength: Strong
+Breached: No
+```
+
 ## Author
 
 **Sheik Ismail Ajmal**  
